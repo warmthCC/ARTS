@@ -73,6 +73,6 @@ public:
 
 ## time and space complexity
 
-T(n) = O(n^2)
+T(n) = O(m * n)
 
-S(n) = O(n^2)
+S(n) = O(m * n)
