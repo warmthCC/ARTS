@@ -12,6 +12,8 @@ ARTS : solve an algorithm problem, review technical articles, learn a few tips, 
 
 ### reviews
 
+[teach yourself programming in 10 years](review/teach-yourself-programming-in-10-years.md)
+
 ### tips
 
 ### share
