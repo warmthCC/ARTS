@@ -4,4 +4,4 @@ ARTS:solve an algorithm problem, review technical articles, learn a few tips, wr
 
 ## week 1
 
-[algorithm leetcode 0001]algorithms/leetcode_0001.md
+[algorithm leetcode 0001](algorithms/leetcode_0001.md)
