@@ -16,4 +16,8 @@ ARTS : solve an algorithm problem, review technical articles, learn a few tips, 
 
 ### tips
 
+[complexities](tips/complexities.md)
+
 ### share
+
+[RAII](share/RAII.md)
