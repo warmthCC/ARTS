@@ -39,5 +39,3 @@ ARTS : solve an algorithm problem, review technical articles, learn a few tips, 
 ### share-2
 
 [c++ STL](share/cpp_STL.md)
-
-[scalability](share/scalability.md)
