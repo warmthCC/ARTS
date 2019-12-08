@@ -21,10 +21,20 @@ executable file = short header + text segment + initailized data
 
 contains all the environment(shell) variables and local variables. It starts at or near the top of the virtual address space and grows down towrad 0.
 
-[mm_struct](https://elixir.bootlin.com/linux/v5.4/source/include/linux/mm_types.h#L370), a memory descriptor includes some fields identifying the role of som memory regions.
+memory regions |
+:-: |
+text segment |
+data and bss segment |
+heap |
+file memory mappings and anoymous memory mappings|
+user mode stack|
+
+### references
+
+1. [mm_struct](https://elixir.bootlin.com/linux/v5.4/source/include/linux/mm_types.h#L370), a memory descriptor includes some fields identifying the role of som memory regions.
+
+2. [Modern Operating Systems (Forth Edition)] 10.4.1(P751)
+
+3. Understanding the Linux Kernel (Third Edition) Table 20-4(P819), Table 9-2(P354)
 
 ## implementation of memory management in Linux
-
-## references
-
-1. Modern Operating Systems (Forth Edition) 10.4
