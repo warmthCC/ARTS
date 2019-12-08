@@ -8,7 +8,7 @@ ARTS : solve an algorithm problem, review technical articles, learn a few tips, 
 
 [leetcode 0001](algorithms/leetcode_0001.md)
 
-[leetcode 5277](algorithms/leetcode_5277.md)
+[leetcode 1277](algorithms/leetcode_1277.md)
 
 ### reviews-1
 
@@ -28,11 +28,11 @@ ARTS : solve an algorithm problem, review technical articles, learn a few tips, 
 
 [leetcode 0004](algorithms/leetcode_0004.md)
 
-[contest]
+[leetcode 1281](algorithms/leetcode_1281.md)
 
 ### reviews-2
 
-[linux memory management](review/understanding-the-linux-kernel.md)
+[linux memory management](review/linux-memory-addressing.md)
 
 ### tips-2
 
