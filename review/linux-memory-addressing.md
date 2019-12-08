@@ -1,9 +1,17 @@
 # linux memory management
 
-## addressing techniques
+## fundamental concepts
 
-### paging
+Every linux process has an address space that logically consists of 3 segments:
 
-## how the kernel allocates main memory to itself
+1. text segment
 
-## how linear addresses are assigned to processes
+   * contains machine instructions
+   * read only
+
+2. data segment
+
+   * initialized data
+   * uninitialized data
+
+3. stack segment
