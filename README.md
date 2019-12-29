@@ -41,3 +41,29 @@ ARTS : solve an algorithm problem, review technical articles, learn a few tips, 
 ### share-2
 
 [c++ STL](share/cpp_STL_containers.md)
+
+## week 3
+
+### algorithms-3
+
+[leetcode 5124](algorithms/leetcode_5124.md)
+
+### reviews-3
+
+[linux process management]
+
+### tips-3
+
+### share-3
+
+## week 5
+
+### algorithms-5
+
+[leetcode 5296](algorithms/leetcode_5296.md)
+
+### reviews-5
+
+### tips-5
+
+### share-5
