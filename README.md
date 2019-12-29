@@ -2,6 +2,12 @@
 
 ARTS : solve an algorithm problem, review technical articles, learn a few tips, write an article with opinion every week
 
+[week1](#week-1)
+[week2](#week-2)
+[week3](#week-3)
+[week4](#week-4)
+[week5](#week-5)
+
 ## week 1
 
 ### algorithms-1
@@ -55,6 +61,18 @@ ARTS : solve an algorithm problem, review technical articles, learn a few tips, 
 ### tips-3
 
 ### share-3
+
+## week 4
+
+### algorithms-4
+
+[leetcode 1298](algorithms/leetcode_1298.md)
+
+### reviews-4
+
+### tips-4
+
+### share-4
 
 ## week 5
 
