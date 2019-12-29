@@ -2,15 +2,15 @@
 
 ARTS : solve an algorithm problem, review technical articles, learn a few tips, write an article with opinion every week
 
-[week1](#week-1)
+* [week1](#week-1)
 
-[week2](#week-2)
+* [week2](#week-2)
 
-[week3](#week-3)
+* [week3](#week-3)
 
-[week4](#week-4)
+* [week4](#week-4)
 
-[week5](#week-5)
+* [week5](#week-5)
 
 ## week 1
 
